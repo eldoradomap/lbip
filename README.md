@@ -1,2 +1,2 @@
 read me
-fix for test issue 5
+fix for test issue 6
